@@ -1,0 +1,98 @@
+body {
+
+font-family: 'Alegreya Sans SC', sans-serif;
+font-weight: 100;
+color: white;
+background: #780206; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #780206 , #061161); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #780206 , #061161); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+text-align: center;
+}
+
+
+button {
+	
+border: 1px solid black;
+background: none;
+color: white;
+font-family: 'Alegreya Sans SC', sans-serif;
+font-weight: 100;
+height: 21px;
+
+}
+
+input {
+	
+border: 0px;
+opacity: 0.5;
+height: 17px;
+width: 180px;
+color: #242424;
+margin: 10px;
+
+}
+
+select {
+	margin: 10px;
+}
+
+#enter-year {
+	width: 95px;
+}
+
+.container {
+margin: auto;
+display: inline-block;
+
+}
+
+#find-a-movie {
+	font-size: 50px;
+}
+
+#idk > p {
+font-size: 25px;
+margin-top: 0;
+}
+
+.confined {
+	height: 300px;
+	width: 200px;
+	margin: 5px;
+	border: 5px solid black;
+}
+
+#movie {
+	display: inline-block;
+}
+
+#idk {
+	display: inline-block;
+	float: right;
+	line-height: 5px;
+}
+
+#movie-info {
+	list-style: none;
+}
+
+a {
+	color: white;
+}
+
+#header {
+	background-color: black;
+	width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
